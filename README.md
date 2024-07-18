@@ -11,12 +11,12 @@ To install Cowrie and Suricata packages, follow these steps:
 
 1. **Download the installation script:**
 
-   ```sh
-   wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/install-cowrie-suricata.sh
-
+ ```
+ wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/install-cowrie-suricata.sh
+```
 2. Give execution permissions to the installation script:
 
-  ```sh
+```
 chmod +x install-cowrie-suricata.sh
 ```
 3. Run the installation script:
