@@ -12,7 +12,7 @@ To install Cowrie and Suricata packages, follow these steps:
 1. **Download the installation script:**
 
  ```
- wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/install-cowrie-suricata.sh
+ wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/cowrie_and_suricata.sh
 ```
 2. Give execution permissions to the installation script:
 
@@ -21,24 +21,24 @@ chmod +x install-cowrie-suricata.sh
 ```
 3. Run the installation script:
 ```
-./install-cowrie-suricata.sh
+./cowrie_and_suricata.sh
 ```
 VM 2: Wazuh
 To install the Wazuh package, follow these steps:
 
 1. Download the installation script:
 ```
-wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/install-wazuh.sh
+wget https://raw.githubusercontent.com/hello4r1end/Honeypot-With-SIEM/main/wazuh.sh
 ```
 2. Give execution permissions to the installation script:
 
 ```
-chmod +x install-wazuh.sh
+chmod +x wazuh.sh
 ```
 3. Run the installation script:
 
 ```
-./install-wazuh.sh
+./wazuh.sh
 ```
 Configuration
 IP Addresses
